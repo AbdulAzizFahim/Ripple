@@ -2,13 +2,13 @@
 A Basic Payment Gateway using PL/SQL
 A Project with couple of feature for a project in Distributed Database System Course in University.
 
-
 Feature:
-1.All data except for Account number and Location is Ecrypted with basic Ceaser Code
-2.Login Option
-3.Send Money Option
-4.Change Pin
-5.Show Balance
+1. All data except for Account number and Location is Ecrypted with basic Ceaser Code
+2. Login Option
+3. Send Money Option
+4. Change Pin
+5. Show Balance
+ 
 
 Steps for Execution:
 1. Setup VMware
